@@ -1,4 +1,4 @@
-import React, { use, useState } from "react";
+import { use, useState } from "react";
 import Country from "../Country/Country";
 import "./countries.css";
 
