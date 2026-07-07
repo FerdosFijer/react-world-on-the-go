@@ -11,7 +11,7 @@ const Countries = ({ countriesPromise }) => {
   //! lift up the state next 5 line kortesi karon: Amra protome akta state decleare korbo
   //! handaler function banabo and handaler ta map kore props ta  button er file a patabo distructuring kore
   //! seta params akare receive korbe and params akare receive howa file ta button file e handlaer e add korbo
-  //!  and button er main params ta k abr protomer file a patabo handaler e and ota diye kaj korbo
+  //! and button er main params ta k abr protomer file a patabo handaler e and ota diye kaj korbo
 
   const [visitedCountries, setVisitedCountries] = useState([]);
   const handleVisitedCountries = (country) => {
